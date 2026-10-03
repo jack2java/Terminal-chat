@@ -13,6 +13,8 @@ Java 17 or newer
 
 Any OpenJDK-compatible distribution
 
+can work on :
+
 Windows, Linux and android
 
 
