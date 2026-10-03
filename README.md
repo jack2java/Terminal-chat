@@ -1,6 +1,6 @@
 Simple Chatting application write in java and use Terminal-based
 
-Terminal chat is a lightweight terminal-based chat application written in Java 17 for local networks. It is designed for environments where a graphical interface is unavailable or unnecessary, such as headless Linux servers and single-board computers.
+Terminal chat is a lightweight terminal-based chat application written in Java 17 for local networks.
 
 you can send a file too
 
